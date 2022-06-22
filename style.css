@@ -1,0 +1,30 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.body{
+    background-color: aquamarine;
+}
+.h1{
+    font-style: oblique;
+    font-weight: 100;
+}
+.h4{
+    font-style: italic;
+    font-family: fantasy;
+    font-weight: 10;
+}
+#camera{
+    width:500;
+    height: 700;
+    border-color: blueviolet;
+    border-style: ridge;
+}
+
+.img{
+    width: 100;
+    border-radius: 50;
+}
